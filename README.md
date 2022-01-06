@@ -1,1 +1,1 @@
-# Data-Viz-Exercise-Kaggle
+Data Visualization exercise from Kaggle.
